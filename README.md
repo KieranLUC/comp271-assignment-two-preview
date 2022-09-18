@@ -1,5 +1,7 @@
 # Comp 271 - Assignment Two
 
+## Due November 15, 2022
+
 ### Step One - fork the repository to your own GitHub space - 5 points
 
 Click the "Fork" button in the upper right hand corner of the GitHub view.
