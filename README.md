@@ -1,6 +1,6 @@
 # Comp 271 - Assignment Two
 
-## Due April 4, 2023
+## Due April 2, 2023
 
 ### Step One - fork the repository to your own GitHub space - 5 points
 
