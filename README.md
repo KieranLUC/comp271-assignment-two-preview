@@ -1,14 +1,10 @@
 # Comp 271 - Assignment Two
 
-## Due date: April 1, 2025, 6:00pm
+## Due date: April 1, 2026, 6:00pm
 
 ## Note: we will work on this assignment together in class.  Please do not begin the assignment until after we work on this together in class.
 
-### Step One - fork the repository to your own GitHub space - 5 points
-
-Click the "Fork" button in the upper right hand corner of the GitHub view.
-
-### Step Two - Make the stackFunctionality test pass - 15 points
+### Step One - Make the stackFunctionality test pass - 15 points
 
 Open `ListBackedStackTest.java` and run the tests there. 
 
@@ -16,7 +12,7 @@ Your first goal is to make the test called `stackFunctionality()` pass.
 Add code **only** in `ListBackedStack.java` (not `ListBackedStackTest.java`)
 to make the `stackFunctionality` test pass.
 
-### Step Three - Make the queueFunctionality test pass - 15 points
+### Step Two - Make the queueFunctionality test pass - 15 points
 
 Open `ListBackedQueueTest.java` and run the tests there.
 
@@ -24,7 +20,7 @@ Your second goal is to make the test called `queueFunctionality()` pass.
 Add code **only** in `ListBackedQueue.java` (not `ListBackedQueueTest.java`)
 to make the `queueFunctionality` test pass.
 
-### Step Four - Write the reverseTheAlphabet test - 15 points
+### Step Three - Write the reverseTheAlphabet test - 15 points
 
 Now that you have implemented the basic functionality of both stack and 
 queue data structures, write a more robust test for your code.
@@ -35,7 +31,7 @@ structure to facilitate printing the alphabet in reverse order.
 
 Follow the instructions in `reverseTheAlphabet()` and only add code in `ListBackedStackTest.java`.
 
-### Step Five - Write the firstComeFirstServed test - 15 points
+### Step Four - Write the firstComeFirstServed test - 15 points
 
 Add code in the `firstComeFirstServed()` test in `ListBackedQueueTest.java` to
 model the first-in, first-out contract of the queue data structure. 
@@ -45,7 +41,7 @@ Use whatever Java code you chose, but above all:
 * Your test must include at least three assertion statements (eg: `assertThat(...).is(..)`)
 
 
-### Step Six - Complete the table below (type your answers in the space given below) - 10 points:
+### Step Five - Complete the table below (type your answers in the space given below) - 15 points:
 
 **Note:** Enter running time in Big-O notation
 
@@ -58,8 +54,7 @@ Use whatever Java code you chose, but above all:
 
 ### Step Seven - Submit your assignment by opening a Pull Request
 
-When finished, submit your work by opening a **Pull Request** in GitHub, then **submit a link to 
-that Pull Request to the Assignment Two page in Sakai.**
+When finished, submit your work by opening a **Pull Request** in GitHub.
 
 A Pull Request is a GitHub feature that allows you to submit changes
 to the owner of a repository.  The owner of the repository can then provide
