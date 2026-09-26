@@ -1,6 +1,6 @@
 # Comp 271 - Assignment Two
 
-## Due date: April 1, 2026, 6:00pm
+## Due date: November 10, 2026, 6:00pm
 
 ## Note: we will work on this assignment together in class.  Please do not begin the assignment until after we work on this together in class.
 
